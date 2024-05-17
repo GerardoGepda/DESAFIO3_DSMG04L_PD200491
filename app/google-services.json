@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927764387824",
+    "project_id": "desafio-3-dsm-b98e0",
+    "storage_bucket": "desafio-3-dsm-b98e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927764387824:android:595546adca2764a94e6f35",
+        "android_client_info": {
+          "package_name": "com.example.desafio3_dsmg04l_pd200491"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvsHvaz0VRph9ZBJlGhyan2i2f4VeLpFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

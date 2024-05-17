@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DESAFIO3_DSMG04L_PD200491</string>
+    <string name="app_title">Recursos de aprendizaje</string>
+    <string name="app_qty">Cantidad de recursos: 0</string>
+
+    <string name="resource_name">Nombre del recurso</string>
+    <string name="resource_type">Tipo del recurso: </string>
+    <string name="resource_desc">Descripción del recurso</string>
+    <string name="resource_link">Enlace del recurso</string>
+    <string name="resource_btn">Acceder al recurso</string>
+    <string name="resource_temp">Texto prueba</string>
+    <string name="resource_btn_link">Ver recurso</string>
+    <string name="resource_btn_close">Cerrar</string>
+</resources>
